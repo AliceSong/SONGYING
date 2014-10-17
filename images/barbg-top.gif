@@ -1,0 +1,181 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
+<title>迪士尼</title>
+<link href="http://mcdn.dol.cn/404/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="http://mcdn.dol.cn/404/js/jquery.js"></script>
+<script type="text/javascript" src="http://mcdn.dol.cn/404/js/main.js"></script>
+<style type="text/css">
+<!--
+.STYLE1 {color: #333333}
+-->
+
+.con{height:750px; clear:both;}
+.con .tj{ display:block; width:730px; margin:0px auto }
+.con .tj a{ display:inline-block; width:130px; height:130px;  margin-top:290px; margin-right:15px; float:left}
+
+.clear{ clear:both}
+
+.AD{ width:950px; margin:46px auto 0; border-top:1px dashed #000;}
+.AD img{ width:217px; height:80px; border:1px solid #a5a5a5;}
+.AD a{  float:left; margin:20px 24px 50px 0; _margin:20px 22px 50px 0; overflow:hidden; width:219px; height:82px; display:inline-block}
+.AD .end{float:right; margin-right:0}
+</style>
+</head>
+
+<body>
+<div class="pagemain">
+<div class="toppic"><a href="index.html"><img src="http://mcdn.dol.cn/404/images/backbtn.gif" /></a></div>
+<div class="nav">
+<li class="navli1"><a href="http://game.dol.cn" target="_blank"><img src="http://mcdn.dol.cn/404/images/nav01.jpg" /></a></li>
+<li class="navfenge"></li>
+<li class="navli2"><a href="http://image.dol.cn" target="_blank"><img src="http://mcdn.dol.cn/404/images/nav02.jpg" /></a></li>
+<li class="navfenge"></li>
+<li class="navli3"><a href="http://baby.dol.cn" target="_blank"><img src="http://mcdn.dol.cn/404/images/nav03.jpg" /></a></li>
+<li class="navfenge"></li>
+<li class="navli4"><a href="http://player.dol.cn/" target="_blank"><img src="http://mcdn.dol.cn/404/images/nav04.jpg" /></a></li>
+<li class="navfenge"></li>
+<li class="navli5"><a href="http://store.dol.cn/" target="_blank"><img src="http://mcdn.dol.cn/404/images/nav05.jpg" /></a></li>
+<li class="navfenge"></li>
+<li class="navli6"><a href="http://book.dol.cn/" target="_blank"><img src="http://mcdn.dol.cn/404/images/nav06.jpg" /></a></li>
+<li class="navfenge"></li>
+<li class="navli7"><a href="http://movie.dol.cn/" target="_blank"><img src="http://mcdn.dol.cn/404/images/nav07.jpg" /></a></li>
+<li class="navfenge"></li>
+<li class="navli8"><a href="http://tv.dol.cn/" target="_blank"><img src="http://mcdn.dol.cn/404/images/nav08.jpg" /></a></li>
+<li class="navfenge"></li>
+<li class="navli9"><a href="http://star.dol.cn/" target="_blank"><img src="http://mcdn.dol.cn/404/images/nav09.jpg" /></a></li>
+<li class="navfenge"></li>
+<li class="navli10"><a href="http://show.dol.cn/" target="_blank"><img src="http://mcdn.dol.cn/404/images/nav10.jpg" /></a></li>
+<li class="navfenge"></li>
+<li class="navli11"><a href="http://www.hongkongdisneyland.com.cn/" target="_blank"><img src="http://mcdn.dol.cn/404/images/nav11.jpg" /></a></li>
+<li class="navfenge"></li>
+<li class="navli12"><a href="http://www.disneyenglish.com/" target="_blank"><img src="http://mcdn.dol.cn/404/images/nav12.jpg" /></a></li>
+<li class="navfenge"></li>
+<li class="navli13"><a href="http://space.dol.cn/" target="_blank"><img src="http://mcdn.dol.cn/404/images/nav13.jpg" /></a></li>
+</div>
+
+<div class="con" >
+	<div class="tj">
+        <a href="http://game.dol.cn/"></a>
+        <a href="http://player.dol.cn/"></a>
+        <a href="http://store.dol.cn/"></a>
+        <a href="http://baby.dol.cn/"></a>
+        <a href="http://space.dol.cn/"></a>
+    </div><br class="clear" />
+    
+    <div class="AD">
+        	<a href="http://xiaozhuren.com/edm/20120627/cn/index.html"><img src="http://baby.dol.cn/inc/images/pic155grgya.jpg" alt="" /></a>
+            <a href="http://game.dol.cn/Mgame/20120611/51947-pc.shtml"><img src="http://baby.dol.cn/inc/images/pic6hr85do2.jpg" alt="" /></a>
+            <a href="http://baby.dol.cn/food/"><img src="http://baby.dol.cn/inc/images/picavuk2r6w.jpg" alt="" /></a>
+            <a href="http://movie.dol.cn/" class="end"><img src="http://image.dol.cn/inc/images/pic7kjo182a.jpg" alt="" /></a>
+    </div><br class="clear" />
+    
+</div>
+
+
+
+<div class="link">
+  <table border="0" cellspacing="0" cellpadding="0" class="linktab">
+    <tr>
+      <td class="tit"><a href="#">交流更多</a></td>
+      <td class="tit"><a href="#">游戏</a></td>
+      <td class="tit"><a href="#">美图</a></td>
+      <td class="tit"><a href="#">亲子</a></td>
+      <td class="tit"><a href="#">乐播</a></td>
+      <td class="tit"><a href="#">购物</a></td>
+      <td class="tit"><a href="#">出版</a></td>
+    </tr>
+    <tr>
+      <td><a href="#"><img src="http://mcdn.dol.cn/404/images/sharepic01.jpg" />关注我们</a></td>
+      <td><a href="http://game.dol.cn/Mgame/index.shtml">智能机游戏</a></td>
+      <td><a href="http://image.dol.cn/index.shtml?typeID=%E6%97%A5%E5%8E%86">最新月历</a></td>
+      <td><a href="http://baby.dol.cn/craft/">亲子手工</a></td>
+      <td><a href="http://player.dol.cn/?id=tab1&name=tabA">新片尽览</a></td>
+      <td><a href="http://store.dol.cn/index.shtml?typeID=%E7%AB%A5%E8%A3%85">宝宝萌物</a></td>
+      <td><a href="http://book.dol.cn/book/">新书推荐</a></td>
+    </tr>
+    <tr>
+      <td><a href="#"><img src="http://mcdn.dol.cn/404/images/sharepic02.jpg" />收听我们</a></td>
+      <td><a href="http://flashgame.dol.cn">Flash游戏</a></td>
+      <td><a href="http://image.dol.cn/">最热壁纸</a></td>
+      <td><a href="http://baby.dol.cn/food/">爱心美食</a></td>
+      <td><a href="http://player.dol.cn/?id=tab3&name=tabC ">时尚前沿</a></td>
+      <td><a href="http://store.dol.cn/index.shtml?typeID=%E5%A5%B3%E8%A3%85">女装特卖</a></td>
+      <td><a href="http://book.dol.cn/magazine/">期刊杂志</a></td>
+    </tr>
+    <tr>
+      <td><a href="#"><img src="http://mcdn.dol.cn/404/images/sharepic03.jpg" />加入小镇粉丝</a></td>
+      <td><a href="http://flashgame.dol.cn/pk.htm">挑战擂台</a></td>
+      <td><a href="http://image.dol.cn/index.shtml?typeID=%E7%94%B5%E5%BD%B1">电影海报</a></td>
+      <td><a href="http://baby.dol.cn/grow/">育儿笔记</a></td>
+      <td><a href="http://player.dol.cn/?id=tab4&name=tabD">走遍世界</a></td>
+      <td><a href="http://store.dol.cn/index.shtml?typeID=%E7%94%B7%E8%A3%85">男装精选</a></td>
+      <td><a href="http://book.dol.cn/book/">图书阅读</a></td>
+    </tr>
+	<tr>
+      <td><a href="#">&nbsp;</a></td>
+      <td><a href="http://flashgame.dol.cn/quest.htm">任务进行时</a></td>
+      <td><a href="http://image.dol.cn/header_pic/">萌版头像</a></td>
+      <td><a href="http://baby.dol.cn/book/">电子图书</a></td>
+      <td><a href="http://player.dol.cn/?id=tab6&name=tabF">文艺流行</a></td>
+      <td><a href="http://store.dol.cn/index.shtml?typeID=%E5%84%BF%E7%AB%A5%E7%8E%A9%E5%85%B7">热销玩具</a></td>
+      <td><a href="http://book.dol.cn/ebook/">电子读物</a></td>
+    </tr>
+  </table>
+</div>
+<div class="link1">
+  <table border="0" cellspacing="0" cellpadding="0" class="linktab">
+    <tr>
+      <td class="tit"><a href="#">会员</a></td>
+      <td class="tit"><a href="#">电影</a></td>
+      <td class="tit"><a href="#">电视</a></td>
+      <td class="tit"><a href="#">明星</a></td>
+      <td class="tit"><a href="#">演出</a></td>
+      <td class="tit"><a href="#">乐园</a></td>
+      <td class="tit"><a href="#">英语</a></td>
+    </tr>
+    <tr>
+      <td><a href="#">个人空间</a></td>
+      <td><a href="http://movie.dol.cn/">热门大片</a></td>
+      <td><a href="http://tv.dol.cn/">节目单</a></td>
+      <td><a href="#">赛车总动员</a></td>
+      <td><a href="http://show.dol.cn/">热门演出</a></td>
+      <td><a href="http://www.hongkongdisneyland.com.cn/hkdl/zh_CN/special/listing?name=SpecialOffersOverviewPage">惊喜优惠</a></td>
+      <td><a href="http://www.disneyenglish.cn/sc/centers/">培训中心</a></td>
+    </tr>
+    <tr>
+      <td><a href="#">心情指数</a></td>
+      <td><a href="http://movie.dol.cn/Mnews/">最新资讯</a></td>
+      <td><a href="http://tv.dol.cn/">小神龙俱乐部</a></td>
+      <td><a href="#">小熊维尼</a></td>
+      <td><a href="http://show.dol.cn/">视频集锦</a></td>
+      <td><a href="http://www.hongkongdisneyland.com.cn/hkdl/zh_CN/parks/overview?name=ParkOverviewPage">乐园概览</a></td>
+      <td><a href="http://www.disneyenglish.cn/sc/news-and-events/">最新消息</a></td>
+    </tr>
+    <tr>
+      <td><a href="#">魔法充电</a></td>
+      <td><a href="http://player.dol.cn/?id=tab1&name=tabA">精彩视频</a></td>
+      <td><a href="http://tv.dol.cn/">艺术创想</a></td>
+      <td><a href="#">迪士尼公主</a></td>
+      <td><a href="http://show.dol.cn/Wonderfulreview/20120516/48983-pc.shtml">精彩回顾</a></td>
+      <td><a href="http://www.hongkongdisneyland.com.cn/hkdl/zh_CN/planYourVisit/overview?name=PlanYourVisitOverviewPage">计划旅程</a></td>
+      <td><a href="http://www.disneyenglish.cn/sc/about-us/#ExpertTestimonials">专家推荐</a></td>
+    </tr>
+    <tr>
+      <td><a href="#">好友列表</a></td>
+      <td><a href="http://movie.dol.cn/Pixar/">经典DVD</a></td>
+      <td><a href="http://tv.dol.cn/">课间好时光</a></td>
+      <td><a href="#">欢笑一刻</a></td>
+      <td><a href="http://show.dol.cn/">演出进行时</a></td>
+      <td><a href="http://www.hongkongdisneyland.com.cn/hkdl/zh_CN/ticketsAndReservations/overview?name=TicketsAndReservationsPage">在线预定</a></td>
+      <td><a href="http://www.disneyenglish.cn/sc/about-us/#Methodology">培训方法</a></td>
+    </tr>
+  </table>
+</div>
+<div class="tuijian"><strong>特别推荐：</strong><a href="http://space.dol.cn">迪士尼个人空间</a> <a href="http://flashgame.dol.cn">游戏社区 </a><a href="http://user.qzone.qq.com/1330597021">迪士尼互动 </a><a href="http://dsn.91.com/">梦幻迪士尼 </a><a href="http://page.renren.com/disney?checked=true">迪士尼奇妙小镇</a></div>
+<div class="copy"><a href="#">关于我们</a>&nbsp;|&nbsp;<a href="falv.html">法律条款</a>&nbsp;|&nbsp;<a href="yinsi.html">隐私条例</a>&nbsp;|&nbsp;<a href="#">网站地图</a>&nbsp;|&nbsp;<a href="shuoming.html">使用说明</a>&nbsp;|&nbsp;<a href="shangwang.html">儿童安全上网</a><br />Disney.All Rights Reserved</div>
+</div>
+</body>
+</html>
